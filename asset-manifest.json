@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/would-you-game/static/css/main.2cce8147.chunk.css",
+    "main.js": "/would-you-game/static/js/main.4be3f734.chunk.js",
+    "main.js.map": "/would-you-game/static/js/main.4be3f734.chunk.js.map",
+    "runtime~main.js": "/would-you-game/static/js/runtime~main.bb72fed3.js",
+    "runtime~main.js.map": "/would-you-game/static/js/runtime~main.bb72fed3.js.map",
+    "static/js/2.4ea3c6e7.chunk.js": "/would-you-game/static/js/2.4ea3c6e7.chunk.js",
+    "static/js/2.4ea3c6e7.chunk.js.map": "/would-you-game/static/js/2.4ea3c6e7.chunk.js.map",
+    "index.html": "/would-you-game/index.html",
+    "precache-manifest.3a60112c6e830704bf2e4163f466bbe5.js": "/would-you-game/precache-manifest.3a60112c6e830704bf2e4163f466bbe5.js",
+    "service-worker.js": "/would-you-game/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/would-you-game/static/css/main.2cce8147.chunk.css.map"
+  }
+}
