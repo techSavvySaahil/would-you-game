@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c090d72f54d03387cdd477389d6f3c5",
+    "revision": "e0ec6e48ad10fd908741f1e2c19dcff4",
     "url": "/would-you-game/index.html"
   },
   {
-    "revision": "b7974cd36de85eddf6e1",
+    "revision": "465486dae0bc9ab7fd14",
     "url": "/would-you-game/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/would-you-game/static/js/2.4ea3c6e7.chunk.js"
   },
   {
-    "revision": "b7974cd36de85eddf6e1",
-    "url": "/would-you-game/static/js/main.4be3f734.chunk.js"
+    "revision": "465486dae0bc9ab7fd14",
+    "url": "/would-you-game/static/js/main.0542633f.chunk.js"
   },
   {
     "revision": "33960c79e996ddf16d6c",
